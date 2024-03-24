@@ -1,0 +1,5 @@
+pynput
+pygame
+pystray
+Pillow
+tkinter
